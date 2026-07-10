@@ -19,8 +19,12 @@
 - 🚀 **Accompagner** — coaching de startups : cadrage, business model, pitch, MVP
 - 🎓 **Former** — formation IT & mentorat aux métiers du numérique
 
-### ⭐ Projet à la une — EagleCheck
-**[EagleCheck](https://eaglecheck.saeicubetech.com)** — un SIRH (Système d'Information RH) intelligent pensé pour l'Afrique francophone : présence temps réel, paie automatisée, gestion des congés, IA prédictive et rapports d'activité générés automatiquement. 🦅
+### ⭐ Mes projets à la une
+
+| Projet | Description |
+|--------|-------------|
+| 🦅 **[EagleCheck](https://eaglecheck.saeicubetech.com)** | SIRH intelligent pour l'Afrique francophone : présence temps réel, paie automatisée, IA prédictive et rapports auto. |
+| 💳 **[FinAccess](https://solicompta.com/)** | Plateforme de gestion financière et comptable pour démocratiser les outils professionnels auprès des PME africaines. |
 
 ### 🛠️ Stack technique
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
